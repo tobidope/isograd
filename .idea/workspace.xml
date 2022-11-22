@@ -59,7 +59,7 @@
       <recent name="C:\Users\tobia\git\isograd\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.area">
+  <component name="RunManager" selected="Python tests.Python tests in test">
     <configuration name="area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="isograd" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,10 +97,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_area.test_safe_are" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="isograd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_area.test_safe_are&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.area" />
         <item itemvalue="Python tests.Python tests in test" />
+        <item itemvalue="Python tests.pytest for test_area.test_safe_are" />
+        <item itemvalue="Python.area" />
       </list>
     </recent_temporary>
   </component>

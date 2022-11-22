@@ -1,4 +1,3 @@
-
 def visitor(data):
     time = data[1]
     count = 0

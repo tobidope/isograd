@@ -14,6 +14,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.conda/share" />
       <excludeFolder url="file://$MODULE_DIR$/.conda/Tools" />
       <excludeFolder url="file://$MODULE_DIR$/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/test/data" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
